@@ -56,19 +56,6 @@
 ## Awards
 
 - **JBNU ChatGPT Prompt Engineering Competition** - Award Recipient (2025.01)
-- **JBNU Startup Idea Competition** - Encouragement Award (2024.06)
-
----
-
-## Contact
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kjun627)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjh71568289@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/smile_hyh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kjun627.github.io)
-
-</div>
+- **JBNU Startup Idea Competition** - Encouragement Award (2025.06)
 
 ---
