@@ -61,11 +61,6 @@
 ---
 
 ## Contact
-
-<div align="center">
 📧 kjh71568289@gmail.com
-<br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="16" height="16" style="vertical-align: middle;"> @smile_hyh
-</div>
-
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="16" width="16" /> @smile_hyh
 ---
