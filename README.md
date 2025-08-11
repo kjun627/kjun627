@@ -1,4 +1,4 @@
-# Jun Hyung Kim
+# Hi there! 👋 I'm Jun Hyung Kim
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Graphics+Developer;Computer+Science+Student;3D+Vision+Researcher" alt="Typing SVG" />
@@ -12,7 +12,6 @@
 - Research Intern at [Visual Intelligence Lab](https://jbnu-vilab.github.io/) (2025.01 - present)
   - **Latent Diffusion-based Image Relighting AI R&D** (with Movers Inc., 2025.05 - 2025.07)
 - 3D Reconstruction & Data Processing at DPRE (2025.02 - present)
-- Transitioning from Computer Vision research to Computer Graphics industry
 - GPA: 4.10/4.5 (Major), 4.00/4.5 (Overall)
 
 ---
@@ -21,6 +20,7 @@
 
 **Programming Languages**  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 **Graphics & Vision**  
@@ -54,8 +54,3 @@
 ---
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kjun627&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/kjun627?label=Followers&style=social" alt="GitHub followers" />
-</div>
