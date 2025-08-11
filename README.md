@@ -12,7 +12,6 @@
 - Research Intern at [Visual Intelligence Lab](https://jbnu-vilab.github.io/) (2025.01 - present)
   - **Latent Diffusion-based Image Relighting AI R&D** (with Movers Inc., 2025.05 - 2025.07)
 - 3D Reconstruction & Data Processing at DPRE (2025.02 - present)
-- Transitioning from Computer Vision research to Computer Graphics industry
 - GPA: 4.10/4.5 (Major), 4.00/4.5 (Overall)
 
 ---
