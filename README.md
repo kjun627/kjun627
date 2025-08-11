@@ -1,4 +1,4 @@
-# Jun Hyung Kim
+<img width="468" height="110" alt="image" src="https://github.com/user-attachments/assets/46f61ea9-97a2-41b3-8ab5-dd525c0ca1a3" /># Jun Hyung Kim
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Graphics+Developer;3D+Vision+Researcher" alt="Typing SVG" />
@@ -61,7 +61,9 @@
 ---
 
 ## Contact
+
 📧 kjh71568289@gmail.com
-<br>
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="16" width="16" /> @smile_hyh
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="16" width="16" style="vertical-align: middle;" /> @smile_hyh
+<img width="468" height="110" alt="image" src="https://github.com/user-attachments/assets/a523aa8c-0bab-40fe-b500-0ec1f64cd103" />
+
 ---
