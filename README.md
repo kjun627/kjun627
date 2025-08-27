@@ -41,12 +41,12 @@
 - **Duration**: 2025.05 - 2025.07
 - **Tech**: Latent Diffusion, PyTorch, Computer Vision
 
-### 🤖 Physical AI Leading Model & PoC
+### 🤖 [Physical AI Leading Model & PoC](https://github.com/kjun627/physical_ai)
 > Multimodal data-based spatial perception technology development
 - **Project**: 2025 Industry-Specialized Physical AI Leading Model & PoC
 - **Duration**: 2025.08 - 2025.12 (expected)
 - **Role**: Multimodal Data-based Spatial Perception Technology Development
-- Tech: Physical AI, Multimodal Learning, Spatial Perception
+- **Tech**: Physical AI, Multimodal Learning, Spatial Perception
 
 *Additional projects will be updated soon*
 
