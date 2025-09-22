@@ -52,15 +52,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kjun627&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333333&icon_color=2f80ed&cache_seconds=1&v=2" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjun627&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2f80ed&text_color=333333&cache_seconds=1&v=2" alt="Top Languages" />
-</div>
-
----
-
 ## Awards
 
 - **JBNU ChatGPT Prompt Engineering Competition** - Award Recipient (2025.01)
