@@ -12,7 +12,6 @@
 - Research Intern at [Visual Intelligence Lab](https://jbnu-vilab.github.io/) (2025.01 - present)
   - **Latent Diffusion-based Image Relighting AI R&D** (with Movers Inc., 2025.05 - 2025.07)
   - **Physical AI Leading Model & PoC Development** (2025 Insustry-Specialized Project, 2025.08 - 2025.12)
-- 3D Reconstruction & Data Processing at DPRE (2025.02 - present)
 - GPA: 4.10/4.5 (Major), 4.00/4.5 (Overall)
 
 ---
@@ -29,7 +28,6 @@
 ![DirectX](https://img.shields.io/badge/DirectX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ---
 
@@ -49,13 +47,6 @@
 - **Tech**: Physical AI, Multimodal Learning, Spatial Perception
 
 *Additional projects will be updated soon*
-
----
-
-## Awards
-
-- **JBNU ChatGPT Prompt Engineering Competition** - Award Recipient (2025.01)
-- **JBNU Startup Idea Competition** - Encouragement Award (2025.06)
 
 ---
 
