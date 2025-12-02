@@ -16,21 +16,6 @@
 
 ---
 
-## Tech Stack
-
-**Programming Languages**  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-**Graphics & Vision**  
-![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
-![DirectX](https://img.shields.io/badge/DirectX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
----
-
 ## Featured Projects
 
 ### 🔆 [Latent Diffusion Image Relighting](https://github.com/kjun627/image-relighting)
