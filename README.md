@@ -1,7 +1,4 @@
 # Jun Hyeong Kim
-
-## About Me
-
 - Computer Science & Engineering Student at Jeonbuk National University (2021.03 - present)
 - Research Intern at [Visual Intelligence Lab](https://jbnu-vilab.github.io/) (2025.01 - present)
   - **Latent Diffusion-based Image Relighting AI R&D** (with Movers Inc., 2025.05 - 2025.07)
